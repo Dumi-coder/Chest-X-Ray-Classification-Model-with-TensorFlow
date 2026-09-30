@@ -1,4 +1,4 @@
-# NIH CXR8 Chest X-Ray Classification Tutorial
+# NIH CXR8 Chest X-Ray Classification
 
 This repository contains a deep learning project utilizing transfer learning to classify abnormalities in chest X-rays using a subset of the NIH CXR8 dataset. The model adapts the pre-trained **InceptionV3** architecture in TensorFlow/Keras to perform binary classification.
 
